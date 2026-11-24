@@ -41,6 +41,7 @@ def display_box_with_dimensions(width, height):
     print(out, end="")
 
 
+# main: take user input for dimensions of box to print
 def main():
     while True:
         try:
